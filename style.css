@@ -1,0 +1,33 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+#users-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+
+}
+
+.cardbody {
+    background-color: aqua;
+    border-radius: 10px;
+    margin-top: 30px;
+    font-family: sans-serif;
+    font-size: small;
+
+}
+
+h4 {
+    background-color: rgba(0, 0, 255, 0.692);
+    color: white;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+.card-title {
+    font-weight: bold;
+}
+
